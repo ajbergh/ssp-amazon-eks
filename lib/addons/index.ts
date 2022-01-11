@@ -18,6 +18,7 @@ export * from './velero'
 export * from './vpc-cni'
 export * from './coredns'
 export * from './kube-proxy'
+export * from './kasten-k10'
 
 export class Constants {
     public static readonly SSP_ADDON = "ssp-addon";
